@@ -1,0 +1,6 @@
+---
+title: "Syllabus"
+---
+
+[\faIcon{book} Course description at UC Davis](https://statistics.ucdavis.edu/expanded-descriptions/141A)
+ 

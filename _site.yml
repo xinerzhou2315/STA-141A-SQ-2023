@@ -1,0 +1,18 @@
+name: "STA 141A Fundamentals of Statistical Data Science, Summer 2023"
+navbar:
+  title: "STA 141A Fundamentals of Statistical Data Science, Summer 2023"
+  left:
+    - text: "Syllabus"
+      href: index.html
+    - text: "Lecture Notes"
+      href: notes.html
+    - text: "Assignments"
+      href: hw.html
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    css: styles.css
+header-includes:
+- \usepackage{outlines}
+ 
